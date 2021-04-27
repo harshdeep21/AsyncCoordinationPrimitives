@@ -7,19 +7,22 @@ http://www.hanselman.com/blog/ComparingTwoTechniquesInNETAsynchronousCoordinatio
 Also I've included a version of async coordination primitives described in:
 
 Building Async Coordination Primitives, Part 1: AsyncManualResetEvent
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/11/10266920.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-1-asyncmanualresetevent
 
 Building Async Coordination Primitives, Part 2: AsyncAutoResetEvent
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/11/10266923.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-2-asyncautoresetevent
 
 Building Async Coordination Primitives, Part 3: AsyncCountdownEvent
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/11/10266930.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-3-asynccountdownevent
 
 Building Async Coordination Primitives, Part 4: AsyncBarrier
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/11/10266932.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-4-asyncbarrier
 
 Building Async Coordination Primitives, Part 5: AsyncSemaphore
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/12/10266983.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-5-asyncsemaphore
 
 Building Async Coordination Primitives, Part 6: AsyncLock
-  http://blogs.msdn.com/b/pfxteam/archive/2012/02/12/10266988.aspx
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-6-asynclock
+
+Building Async Coordination Primitives, Part 7: AsyncReaderWriterLock
+  https://devblogs.microsoft.com/pfxteam/building-async-coordination-primitives-part-7-asyncreaderwriterlock
